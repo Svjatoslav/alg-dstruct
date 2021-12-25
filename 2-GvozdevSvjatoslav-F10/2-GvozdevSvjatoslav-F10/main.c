@@ -123,16 +123,7 @@ void _add(Node* root, Node* new_Node) {
         }
 
     }
-    //    tmp->parent = root2;
-    //    tmp->left = tmp-> right = NULL;
-    //    if (root2!=NULL){
-    //        if (root2->nodes_amount == 0) {
-    //            root2->left = tmp;}
-    //        if (root2->nodes_amount == 1){
-    //            root2->right = tmp;
-    //        }
-    //    }
-    //    return root;
+ 
 }
 
 
